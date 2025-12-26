@@ -146,6 +146,14 @@
           "enabled": true
         },
         {
+          "id": "1766737220188",
+          "title": "MkSaaS ",
+          "href": "https://mksaas.com/",
+          "description": "Make Your AI SaaS Product in a Weekend",
+          "icon": "/assets/favicon_1766737225778.ico",
+          "enabled": true
+        },
+        {
           "id": "site_1762305731527_i50gvj1ul",
           "title": "Napkin AI",
           "href": "https://app.napkin.ai/",
@@ -183,14 +191,6 @@
           "href": "https://www.lingguang.com/",
           "description": "灵光AI",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.lingguang.com",
-          "enabled": true
-        },
-        {
-          "id": "1766737220188",
-          "title": "MkSaaS ",
-          "href": "https://mksaas.com/",
-          "description": "Make Your AI SaaS Product in a Weekend",
-          "icon": "/assets/favicon_1766737225778.ico",
           "enabled": true
         }
       ],
