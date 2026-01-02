@@ -126,6 +126,14 @@
           "description": "Rubbish",
           "icon": "/assets/favicon_1758181055080.png",
           "enabled": true
+        },
+        {
+          "id": "1767365823487",
+          "title": "Outlook",
+          "href": "https://outlook.live.com/mail",
+          "description": "",
+          "icon": "/assets/favicon_1767365825485.png",
+          "enabled": true
         }
       ],
       "subCategories": []
