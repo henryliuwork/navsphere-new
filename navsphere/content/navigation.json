@@ -110,6 +110,14 @@
           "href": "https://trends.google.com/trends/",
           "description": "",
           "icon": "/assets/favicon_1765686636721.ico"
+        },
+        {
+          "id": "1767365734895",
+          "title": "Proton Mail",
+          "href": "https://mail.proton.me/",
+          "description": "",
+          "icon": "/assets/favicon_1767365739592.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
