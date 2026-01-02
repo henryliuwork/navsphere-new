@@ -40,6 +40,14 @@
           "enabled": true
         },
         {
+          "id": "1767365757399",
+          "title": "Proton Pass",
+          "href": "https://pass.proton.me/",
+          "description": "",
+          "icon": "/assets/favicon_1767365760707.ico",
+          "enabled": true
+        },
+        {
           "id": "site_1764658965908_izsr5a8m9",
           "title": "Todoist",
           "href": "https://app.todoist.com/",
@@ -118,14 +126,6 @@
           "href": "https://trends.google.com/trends/",
           "description": "",
           "icon": "/assets/favicon_1765686636721.ico"
-        },
-        {
-          "id": "1767365757399",
-          "title": "Proton Pass",
-          "href": "https://pass.proton.me/",
-          "description": "",
-          "icon": "/assets/favicon_1767365760707.ico",
-          "enabled": true
         }
       ],
       "subCategories": []
