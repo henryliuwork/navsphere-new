@@ -155,9 +155,9 @@
         },
         {
           "id": "1766037948487",
-          "title": "Google NotebookLLM",
+          "title": "Notebook LLM",
           "href": "https://notebooklm.google.com/",
-          "description": "",
+          "description": "Google Notebook LLM",
           "icon": "/assets/favicon_1766037962679.png",
           "enabled": true
         },
