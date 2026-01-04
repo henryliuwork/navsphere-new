@@ -40,6 +40,14 @@
           "enabled": true
         },
         {
+          "id": "site_1764658965908_izsr5a8m9",
+          "title": "Todoist",
+          "href": "https://app.todoist.com/",
+          "description": "Manage Todos",
+          "icon": "/assets/favicon_1764658937654.ico",
+          "enabled": true
+        },
+        {
           "id": "1758697971155",
           "title": "Gmail",
           "href": "https://mail.google.com/",
@@ -61,14 +69,6 @@
           "href": "https://mail.proton.me/",
           "description": "Secured Email",
           "icon": "/assets/favicon_1767365739592.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1764658965908_izsr5a8m9",
-          "title": "Todoist",
-          "href": "https://app.todoist.com/",
-          "description": "Manage Todos",
-          "icon": "/assets/favicon_1764658937654.ico",
           "enabled": true
         },
         {
