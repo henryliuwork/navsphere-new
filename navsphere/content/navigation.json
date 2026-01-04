@@ -56,6 +56,14 @@
           "enabled": true
         },
         {
+          "id": "1767365734895",
+          "title": "Proton Mail",
+          "href": "https://mail.proton.me/",
+          "description": "Secured Email",
+          "icon": "/assets/favicon_1767365739592.ico",
+          "enabled": true
+        },
+        {
           "id": "1758697971155",
           "title": "Gmail",
           "href": "https://mail.google.com/",
@@ -69,14 +77,6 @@
           "href": "https://outlook.live.com/mail",
           "description": "登录outlook",
           "icon": "/assets/favicon_1767365825485.png",
-          "enabled": true
-        },
-        {
-          "id": "1767365734895",
-          "title": "Proton Mail",
-          "href": "https://mail.proton.me/",
-          "description": "Secured Email",
-          "icon": "/assets/favicon_1767365739592.ico",
           "enabled": true
         },
         {
