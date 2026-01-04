@@ -32,6 +32,14 @@
           "enabled": true
         },
         {
+          "id": "1767365757399",
+          "title": "Proton Pass",
+          "href": "https://pass.proton.me/",
+          "description": "Proton Vault",
+          "icon": "/assets/favicon_1767365760707.ico",
+          "enabled": true
+        },
+        {
           "id": "1758697971155",
           "title": "Gmail",
           "href": "https://mail.google.com/",
@@ -53,14 +61,6 @@
           "href": "https://mail.proton.me/",
           "description": "Secured Email",
           "icon": "/assets/favicon_1767365739592.ico",
-          "enabled": true
-        },
-        {
-          "id": "1767365757399",
-          "title": "Proton Pass",
-          "href": "https://pass.proton.me/",
-          "description": "Proton Vault",
-          "icon": "/assets/favicon_1767365760707.ico",
           "enabled": true
         },
         {
