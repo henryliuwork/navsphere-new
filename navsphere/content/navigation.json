@@ -134,6 +134,14 @@
           "description": "Rubbish",
           "icon": "/assets/favicon_1758181055080.png",
           "enabled": true
+        },
+        {
+          "id": "item-1767752537665",
+          "enabled": true,
+          "title": "Markdown Editor",
+          "href": "https://md.newkit.site/",
+          "description": "专业的公众号Markdown编辑器",
+          "icon": "/assets/favicon_1767752519724.svg"
         }
       ],
       "subCategories": []
