@@ -306,6 +306,14 @@
           "description": "",
           "icon": "/assets/favicon_1756973385842.png",
           "enabled": true
+        },
+        {
+          "id": "item-1768283582364",
+          "enabled": true,
+          "title": "外贸侠/Semrush",
+          "href": "https://www.waimaoxia.net/dashboard",
+          "description": "",
+          "icon": "/assets/favicon_1768283572803.ico"
         }
       ],
       "subCategories": []
