@@ -314,6 +314,14 @@
           "href": "https://www.waimaoxia.net/dashboard",
           "description": "",
           "icon": "/assets/favicon_1768283572803.ico"
+        },
+        {
+          "id": "item-1768541762729",
+          "enabled": true,
+          "title": "Scraping Robot",
+          "href": "https://dashboard.scrapingrobot.com/dashboard",
+          "description": "爬虫API",
+          "icon": "/assets/favicon_1768541731086.ico"
         }
       ],
       "subCategories": []
