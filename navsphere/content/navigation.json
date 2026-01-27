@@ -142,6 +142,14 @@
           "href": "https://md.newkit.site/",
           "description": "专业的公众号Markdown编辑器",
           "icon": "/assets/favicon_1767752519724.svg"
+        },
+        {
+          "id": "item-1769476598406",
+          "enabled": true,
+          "title": "Official Google Ads & Commerce news and updates | Google Blog",
+          "href": "https://blog.google/products/ads-commerce/",
+          "description": "Read the latest news, tips and information about Google Ads &amp; Commerce products.",
+          "icon": "/assets/favicon_1769476589349.ico"
         }
       ],
       "subCategories": []
