@@ -162,6 +162,14 @@
       "enabled": true,
       "items": [
         {
+          "id": "1769994641693",
+          "title": "MiniMax Agent",
+          "href": "https://agent.minimax.io/",
+          "description": "Discover MiniMax Agent",
+          "icon": "/assets/favicon_1769994654792.png",
+          "enabled": true
+        },
+        {
           "id": "1756265066977",
           "title": "‎Google Gemini",
           "href": "https://gemini.google.com/",
@@ -175,14 +183,6 @@
           "href": "https://notebooklm.google.com/",
           "description": "Google Notebook LLM",
           "icon": "/assets/favicon_1766037962679.png",
-          "enabled": true
-        },
-        {
-          "id": "1769994641693",
-          "title": "MiniMax Agent",
-          "href": "https://agent.minimax.io/",
-          "description": "Discover MiniMax Agent",
-          "icon": "/assets/favicon_1769994654792.png",
           "enabled": true
         },
         {
