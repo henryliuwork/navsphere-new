@@ -145,11 +145,11 @@
         },
         {
           "id": "item-1769476598406",
-          "enabled": true,
-          "title": "Official Google Ads & Commerce news and updates | Google Blog",
+          "title": "Google Ads & Commerce updates",
           "href": "https://blog.google/products/ads-commerce/",
-          "description": "Read the latest news, tips and information about Google Ads &amp; Commerce products.",
-          "icon": "/assets/favicon_1769476589349.ico"
+          "description": "Latest news, tips for Google Ads & Commerce.",
+          "icon": "/assets/favicon_1769476589349.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
