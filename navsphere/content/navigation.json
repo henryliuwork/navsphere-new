@@ -32,6 +32,14 @@
           "enabled": true
         },
         {
+          "id": "item-1769476598406",
+          "title": "Google Ads & Commerce updates",
+          "href": "https://blog.google/products/ads-commerce/",
+          "description": "Latest news, tips for Google Ads & Commerce.",
+          "icon": "/assets/favicon_1769476589349.ico",
+          "enabled": true
+        },
+        {
           "id": "1767365757399",
           "title": "Proton Pass",
           "href": "https://pass.proton.me/",
@@ -142,14 +150,6 @@
           "href": "https://md.newkit.site/",
           "description": "专业的公众号Markdown编辑器",
           "icon": "/assets/favicon_1767752519724.svg"
-        },
-        {
-          "id": "item-1769476598406",
-          "title": "Google Ads & Commerce updates",
-          "href": "https://blog.google/products/ads-commerce/",
-          "description": "Latest news, tips for Google Ads & Commerce.",
-          "icon": "/assets/favicon_1769476589349.ico",
-          "enabled": true
         }
       ],
       "subCategories": []
