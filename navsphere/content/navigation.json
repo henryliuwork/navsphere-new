@@ -48,6 +48,14 @@
           "enabled": true
         },
         {
+          "id": "1767365734895",
+          "title": "Proton Mail",
+          "href": "https://mail.proton.me/",
+          "description": "Secured Email",
+          "icon": "/assets/favicon_1767365739592.ico",
+          "enabled": true
+        },
+        {
           "id": "site_1764658965908_izsr5a8m9",
           "title": "Todoist",
           "href": "https://app.todoist.com/",
@@ -61,14 +69,6 @@
           "href": "https://ai.feishu.cn/drive/me/",
           "description": "飞书文档，多维表",
           "icon": "https://p1-hera.feishucdn.com/tos-cn-i-jbbdkfciu3/84a9f036fe2b44f99b899fff4beeb963~tplv-jbbdkfciu3-image:0:0.image",
-          "enabled": true
-        },
-        {
-          "id": "1767365734895",
-          "title": "Proton Mail",
-          "href": "https://mail.proton.me/",
-          "description": "Secured Email",
-          "icon": "/assets/favicon_1767365739592.ico",
           "enabled": true
         },
         {
