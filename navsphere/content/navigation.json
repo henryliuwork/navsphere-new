@@ -419,15 +419,6 @@
       "subCategories": []
     },
     {
-      "id": "1770802506641",
-      "title": "社媒营销",
-      "icon": "Users",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1756262262040",
       "title": "EDM营销",
       "icon": "Mail",
@@ -483,6 +474,15 @@
           "enabled": true
         }
       ],
+      "subCategories": []
+    },
+    {
+      "id": "1770802506641",
+      "title": "社媒营销",
+      "icon": "Users",
+      "description": "",
+      "enabled": true,
+      "items": [],
       "subCategories": []
     },
     {
