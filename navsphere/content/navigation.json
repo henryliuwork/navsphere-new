@@ -530,6 +530,14 @@
           "description": "YouTube频道管理",
           "icon": "/assets/favicon_1770803083394.png",
           "enabled": true
+        },
+        {
+          "id": "site_1770803165182_3x1xk5xr5",
+          "title": "Pinterest Business",
+          "href": "https://business.pinterest.com/",
+          "description": "Grow your business with Pinterest",
+          "icon": "/assets/favicon_1770803157385.png",
+          "enabled": true
         }
       ],
       "subCategories": []
