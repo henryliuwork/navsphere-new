@@ -490,6 +490,14 @@
           "description": "Business Suite",
           "icon": "/assets/favicon_1770802823832.png",
           "enabled": true
+        },
+        {
+          "id": "site_1770802882312_gxt6gqlfu",
+          "title": "Ads Manager",
+          "href": "https://adsmanager.facebook.com",
+          "description": "",
+          "icon": "/assets/favicon_1770802869119.png",
+          "enabled": true
         }
       ],
       "subCategories": []
