@@ -94,14 +94,6 @@
           "description": "Rubbish",
           "icon": "/assets/favicon_1758181055080.png",
           "enabled": true
-        },
-        {
-          "id": "item-1767752537665",
-          "enabled": true,
-          "title": "Markdown Editor",
-          "href": "https://md.newkit.site/",
-          "description": "专业的公众号Markdown编辑器",
-          "icon": "/assets/favicon_1767752519724.svg"
         }
       ],
       "subCategories": []
@@ -151,6 +143,14 @@
           "href": "https://www.newkit.site/",
           "description": "JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
           "icon": "/assets/favicon_1765279307988.svg",
+          "enabled": true
+        },
+        {
+          "id": "item-1767752537665",
+          "title": "Markdown Editor",
+          "href": "https://md.newkit.site/",
+          "description": "专业的公众号Markdown编辑器",
+          "icon": "/assets/favicon_1767752519724.svg",
           "enabled": true
         }
       ],
