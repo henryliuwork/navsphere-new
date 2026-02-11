@@ -615,6 +615,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1770801709525",
+      "title": "常用工具",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
