@@ -522,6 +522,14 @@
           "description": "List your business on Google with a free Business Profile. ",
           "icon": "/assets/favicon_1770803053122.png",
           "enabled": true
+        },
+        {
+          "id": "site_1770803101158_7br102hh1",
+          "title": "YouTube Studio",
+          "href": "https://studio.youtube.com/",
+          "description": "YouTube频道管理",
+          "icon": "/assets/favicon_1770803083394.png",
+          "enabled": true
         }
       ],
       "subCategories": []
