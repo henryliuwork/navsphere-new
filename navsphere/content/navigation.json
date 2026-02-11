@@ -88,14 +88,6 @@
           "enabled": true
         },
         {
-          "id": "1756265912645",
-          "title": "在线大小写转换器",
-          "href": "https://www.iamwawa.cn/daxiaoxie.html",
-          "description": "大小写转换，字符空格处理",
-          "icon": "/assets/favicon_1756973036290.png",
-          "enabled": true
-        },
-        {
           "id": "1765279305478",
           "title": "NewKit 在线效率工具箱",
           "href": "https://www.newkit.site/",
@@ -151,6 +143,14 @@
           "href": "https://pixso.cn/",
           "description": "在线原型图",
           "icon": "/assets/favicon_1763715771295.png",
+          "enabled": true
+        },
+        {
+          "id": "1756265912645",
+          "title": "在线大小写转换器",
+          "href": "https://www.iamwawa.cn/daxiaoxie.html",
+          "description": "大小写转换，字符空格处理",
+          "icon": "/assets/favicon_1756973036290.png",
           "enabled": true
         }
       ],
