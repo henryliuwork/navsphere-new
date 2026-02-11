@@ -152,6 +152,14 @@
           "description": "专业的公众号Markdown编辑器",
           "icon": "/assets/favicon_1767752519724.svg",
           "enabled": true
+        },
+        {
+          "id": "1770799701554",
+          "title": "Google Colab",
+          "href": "https://colab.research.google.com/",
+          "description": "Google Python Env",
+          "icon": "/assets/favicon_1770799716215.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -250,14 +258,6 @@
           "href": "https://www.kimi.com/",
           "description": "月之暗面 (Moonshot AI)",
           "icon": "/assets/favicon_1770104866616.png"
-        },
-        {
-          "id": "1770799701554",
-          "title": "Google Colab",
-          "href": "https://colab.research.google.com/",
-          "description": "Google Python Env",
-          "icon": "/assets/favicon_1770799716215.ico",
-          "enabled": true
         }
       ],
       "subCategories": []
