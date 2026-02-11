@@ -498,6 +498,14 @@
           "description": "",
           "icon": "/assets/favicon_1770802869119.png",
           "enabled": true
+        },
+        {
+          "id": "site_1770802992234_89ifo6r0p",
+          "title": "TikTok Business Center",
+          "href": "https://business.tiktok.com/",
+          "description": "Meet all your marketing needs with TikTok Business Center. ",
+          "icon": "/assets/favicon_1770802979032.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
