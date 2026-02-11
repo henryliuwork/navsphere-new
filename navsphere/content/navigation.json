@@ -414,6 +414,14 @@
           "href": "https://dashboard.scrapingrobot.com/dashboard",
           "description": "爬虫API",
           "icon": "/assets/favicon_1768541731086.ico"
+        },
+        {
+          "id": "1770803279037",
+          "title": "Google Ads",
+          "href": "https://ads.google.com/",
+          "description": "Discover how online advertising with Google Ads can help grow your business. ",
+          "icon": "/assets/favicon_1770803281669.png",
+          "enabled": true
         }
       ],
       "subCategories": []
