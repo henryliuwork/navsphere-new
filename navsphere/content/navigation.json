@@ -80,14 +80,6 @@
           "enabled": true
         },
         {
-          "id": "1756265870207",
-          "title": "Random Street Address",
-          "href": "https://www.bestrandoms.com/random-address-in-us",
-          "description": "Random Street Address",
-          "icon": "/assets/favicon_1756973025651.png",
-          "enabled": true
-        },
-        {
           "id": "1756265845494",
           "title": "UTM Builder",
           "href": "https://utmbuilder.net/",
@@ -152,7 +144,16 @@
       "icon": "FolderOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1756265870207",
+          "title": "Random Street Address",
+          "href": "https://www.bestrandoms.com/random-address-in-us",
+          "description": "Random Street Address",
+          "icon": "/assets/favicon_1756973025651.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
