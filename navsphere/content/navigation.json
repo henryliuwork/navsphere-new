@@ -155,6 +155,15 @@
       "subCategories": []
     },
     {
+      "id": "1770801709525",
+      "title": "常用工具",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1762305655061",
       "title": "AI 智能体",
       "icon": "Brain",
@@ -614,15 +623,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1770801709525",
-      "title": "常用工具",
-      "icon": "FolderOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
