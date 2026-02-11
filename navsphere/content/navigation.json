@@ -482,7 +482,16 @@
       "icon": "Users",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1770802837826_938xpv1sf",
+          "title": "Meta for Business",
+          "href": "https://business.facebook.com/",
+          "description": "Business Suite",
+          "icon": "/assets/favicon_1770802823832.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
