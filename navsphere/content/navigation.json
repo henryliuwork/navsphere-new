@@ -88,14 +88,6 @@
           "enabled": true
         },
         {
-          "id": "1765279305478",
-          "title": "NewKit 在线效率工具箱",
-          "href": "https://www.newkit.site/",
-          "description": "JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
-          "icon": "/assets/favicon_1765279307988.svg",
-          "enabled": true
-        },
-        {
           "id": "1758181042852",
           "title": "Baidu",
           "href": "https://baidu.com",
@@ -151,6 +143,14 @@
           "href": "https://www.iamwawa.cn/daxiaoxie.html",
           "description": "大小写转换，字符空格处理",
           "icon": "/assets/favicon_1756973036290.png",
+          "enabled": true
+        },
+        {
+          "id": "1765279305478",
+          "title": "NewKit 在线效率工具箱",
+          "href": "https://www.newkit.site/",
+          "description": "JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
+          "icon": "/assets/favicon_1765279307988.svg",
           "enabled": true
         }
       ],
