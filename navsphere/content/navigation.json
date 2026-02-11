@@ -506,6 +506,14 @@
           "description": "Meet all your marketing needs with TikTok Business Center. ",
           "icon": "/assets/favicon_1770802979032.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1770803039397_nc90bzroz",
+          "title": "TikTok Ads Manager",
+          "href": "https://ads.tiktok.com/",
+          "description": "TikTok广告管理",
+          "icon": "/assets/favicon_1770803012528.png",
+          "enabled": true
         }
       ],
       "subCategories": []
