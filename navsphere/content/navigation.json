@@ -263,6 +263,64 @@
       "subCategories": []
     },
     {
+      "id": "1756264411631",
+      "title": "网站管理",
+      "icon": "Target",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1756264506229",
+          "title": "Mailead | Dashboard",
+          "href": "https://app.mailead.io/dashboard/ax4?view=schedule&Campaign=1744005767672x746757958847430700&path=Campaigns",
+          "description": "Reach out to more Leads",
+          "icon": "/assets/favicon_1756973397172.png",
+          "enabled": true
+        },
+        {
+          "id": "1756264532217",
+          "title": "Facebook Ads Library",
+          "href": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=296744824304651",
+          "description": "Facebook Ads Library",
+          "icon": "/assets/favicon_1757171383452.png",
+          "enabled": true
+        },
+        {
+          "id": "1756264567201",
+          "title": "Awin Affiliate",
+          "href": "https://ui.awin.com/",
+          "description": "Awin Affiliate Platform",
+          "icon": "/assets/favicon_1757171394620.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1757171867825_uka5krlh0",
+          "title": "Microsoft Clarity",
+          "href": "https://clarity.microsoft.com/",
+          "description": "网站录像/热力图",
+          "icon": "/assets/favicon_1757171985614.ico",
+          "enabled": true
+        },
+        {
+          "id": "1_1",
+          "title": "Google Analytics",
+          "href": "https://analytics.google.com/",
+          "description": "网站流量分析",
+          "icon": "/assets/images/logos/analytics.ico",
+          "enabled": true
+        },
+        {
+          "id": "1758697001995",
+          "title": "CxGenie Chatbot",
+          "href": "https://app.cxgenie.ai/",
+          "description": "CxGenie AI Chatbot",
+          "icon": "/assets/favicon_1758697031322.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1756259095124",
       "title": "SEO优化",
       "icon": "Folder",
@@ -356,64 +414,6 @@
           "href": "https://dashboard.scrapingrobot.com/dashboard",
           "description": "爬虫API",
           "icon": "/assets/favicon_1768541731086.ico"
-        }
-      ],
-      "subCategories": []
-    },
-    {
-      "id": "1756264411631",
-      "title": "网站管理",
-      "icon": "Target",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1756264506229",
-          "title": "Mailead | Dashboard",
-          "href": "https://app.mailead.io/dashboard/ax4?view=schedule&Campaign=1744005767672x746757958847430700&path=Campaigns",
-          "description": "Reach out to more Leads",
-          "icon": "/assets/favicon_1756973397172.png",
-          "enabled": true
-        },
-        {
-          "id": "1756264532217",
-          "title": "Facebook Ads Library",
-          "href": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&is_targeted_country=false&media_type=all&search_type=page&view_all_page_id=296744824304651",
-          "description": "Facebook Ads Library",
-          "icon": "/assets/favicon_1757171383452.png",
-          "enabled": true
-        },
-        {
-          "id": "1756264567201",
-          "title": "Awin Affiliate",
-          "href": "https://ui.awin.com/",
-          "description": "Awin Affiliate Platform",
-          "icon": "/assets/favicon_1757171394620.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1757171867825_uka5krlh0",
-          "title": "Microsoft Clarity",
-          "href": "https://clarity.microsoft.com/",
-          "description": "网站录像/热力图",
-          "icon": "/assets/favicon_1757171985614.ico",
-          "enabled": true
-        },
-        {
-          "id": "1_1",
-          "title": "Google Analytics",
-          "href": "https://analytics.google.com/",
-          "description": "网站流量分析",
-          "icon": "/assets/images/logos/analytics.ico",
-          "enabled": true
-        },
-        {
-          "id": "1758697001995",
-          "title": "CxGenie Chatbot",
-          "href": "https://app.cxgenie.ai/",
-          "description": "CxGenie AI Chatbot",
-          "icon": "/assets/favicon_1758697031322.png",
-          "enabled": true
         }
       ],
       "subCategories": []
