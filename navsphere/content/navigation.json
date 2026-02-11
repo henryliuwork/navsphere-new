@@ -514,6 +514,14 @@
           "description": "TikTok广告管理",
           "icon": "/assets/favicon_1770803012528.png",
           "enabled": true
+        },
+        {
+          "id": "site_1770803062955_8ij083w4d",
+          "title": "Google Business Profile",
+          "href": "https://business.google.com/",
+          "description": "List your business on Google with a free Business Profile. ",
+          "icon": "/assets/favicon_1770803053122.png",
+          "enabled": true
         }
       ],
       "subCategories": []
