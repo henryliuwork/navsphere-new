@@ -486,7 +486,7 @@
       "subCategories": [
         {
           "id": "57ecb350-83ad-43bf-8586-230b5bbc0f7f",
-          "title": "PaaS",
+          "title": "项目部署",
           "icon": "Cloud",
           "description": "",
           "enabled": true,
