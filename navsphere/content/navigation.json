@@ -606,6 +606,14 @@
               "enabled": true
             },
             {
+              "id": "1771928251335",
+              "title": "Supabase",
+              "href": "https://supabase.com/",
+              "description": "在线数据库",
+              "icon": "/assets/favicon_1771928260581.png",
+              "enabled": true
+            },
+            {
               "id": "site_1756829417348_0ed49iikf",
               "title": "Digital Ocean",
               "href": "https://cloud.digitalocean.com/apps?i=49339f",
@@ -619,14 +627,6 @@
               "href": "https://zeabur.com/",
               "description": "PaaS，云端部署",
               "icon": "/assets/favicon_1758158592648.png",
-              "enabled": true
-            },
-            {
-              "id": "1771928251335",
-              "title": "Supabase",
-              "href": "https://supabase.com/",
-              "description": "在线数据库",
-              "icon": "/assets/favicon_1771928260581.png",
               "enabled": true
             }
           ]
