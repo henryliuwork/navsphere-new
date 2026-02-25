@@ -472,6 +472,14 @@
           "description": "Newsletter Test",
           "icon": "/assets/favicon_1763002831240.png",
           "enabled": true
+        },
+        {
+          "id": "item-1771987001238",
+          "enabled": true,
+          "title": "Resend",
+          "href": "https://resend.com/emails",
+          "description": "Resend SMTP",
+          "icon": "/assets/favicon_1771986984878.ico"
         }
       ],
       "subCategories": []
