@@ -212,6 +212,14 @@
           "enabled": true
         },
         {
+          "id": "item-1770104877431",
+          "enabled": true,
+          "title": "Kimi AI 官网",
+          "href": "https://www.kimi.com/",
+          "description": "月之暗面 (Moonshot AI)",
+          "icon": "/assets/favicon_1770104866616.png"
+        },
+        {
           "id": "1766037948487",
           "title": "Notebook LLM",
           "href": "https://notebooklm.google.com/",
@@ -258,14 +266,6 @@
           "description": "灵光AI",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.lingguang.com",
           "enabled": true
-        },
-        {
-          "id": "item-1770104877431",
-          "enabled": true,
-          "title": "Kimi AI 官网",
-          "href": "https://www.kimi.com/",
-          "description": "月之暗面 (Moonshot AI)",
-          "icon": "/assets/favicon_1770104866616.png"
         }
       ],
       "subCategories": []
