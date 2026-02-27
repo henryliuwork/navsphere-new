@@ -204,6 +204,14 @@
           "enabled": true
         },
         {
+          "id": "site_1762487523513_6fpzi802j",
+          "title": "DeepSeek",
+          "href": "https://chat.deepseek.com/",
+          "description": "Chat with DeepSeek AI",
+          "icon": "/assets/favicon_1762487515498.svg",
+          "enabled": true
+        },
+        {
           "id": "1766037948487",
           "title": "Notebook LLM",
           "href": "https://notebooklm.google.com/",
@@ -233,14 +241,6 @@
           "href": "https://stitch.withgoogle.com/",
           "description": "Stitch generates UIs",
           "icon": "/assets/favicon_1762400471745.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1762487523513_6fpzi802j",
-          "title": "DeepSeek",
-          "href": "https://chat.deepseek.com/",
-          "description": "Chat with DeepSeek AI",
-          "icon": "/assets/favicon_1762487515498.svg",
           "enabled": true
         },
         {
