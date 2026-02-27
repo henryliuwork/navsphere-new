@@ -172,14 +172,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1769994641693",
-          "title": "MiniMax Agent",
-          "href": "https://agent.minimax.io/",
-          "description": "Discover MiniMax Agent",
-          "icon": "/assets/favicon_1769994654792.png",
-          "enabled": true
-        },
-        {
           "id": "1756265046826",
           "title": "ChatGPT",
           "href": "https://chatgpt.com/",
@@ -201,6 +193,14 @@
           "href": "https://gemini.google.com/",
           "description": "Gemini助手",
           "icon": "/assets/favicon_1756973006812.svg",
+          "enabled": true
+        },
+        {
+          "id": "1769994641693",
+          "title": "MiniMax Agent",
+          "href": "https://agent.minimax.io/",
+          "description": "Discover MiniMax Agent",
+          "icon": "/assets/favicon_1769994654792.png",
           "enabled": true
         },
         {
