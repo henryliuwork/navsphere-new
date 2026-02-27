@@ -196,6 +196,14 @@
           "enabled": true
         },
         {
+          "id": "1772184778156",
+          "title": "Claude",
+          "href": "https://claude.ai/",
+          "description": "Claude AI",
+          "icon": "/assets/favicon_1772184805856.svg",
+          "enabled": true
+        },
+        {
           "id": "1766037948487",
           "title": "Notebook LLM",
           "href": "https://notebooklm.google.com/",
@@ -258,14 +266,6 @@
           "href": "https://www.kimi.com/",
           "description": "月之暗面 (Moonshot AI)",
           "icon": "/assets/favicon_1770104866616.png"
-        },
-        {
-          "id": "1772184778156",
-          "title": "Claude",
-          "href": "https://claude.ai/",
-          "description": "Claude AI",
-          "icon": "/assets/favicon_1772184805856.svg",
-          "enabled": true
         }
       ],
       "subCategories": []
