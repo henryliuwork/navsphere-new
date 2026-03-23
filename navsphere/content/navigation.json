@@ -200,6 +200,14 @@
           "description": "灵光AI",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.lingguang.com",
           "enabled": true
+        },
+        {
+          "id": "item-1774233252315",
+          "enabled": true,
+          "title": "MiniMax",
+          "href": "https://agent.minimaxi.com/",
+          "description": "MiniMax Agent",
+          "icon": "/assets/favicon_1774233237952.png"
         }
       ],
       "subCategories": []
