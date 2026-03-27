@@ -208,6 +208,14 @@
           "href": "https://agent.minimaxi.com/",
           "description": "MiniMax Agent",
           "icon": "/assets/favicon_1774233237952.png"
+        },
+        {
+          "id": "site_1774600470127_c30p4l5t5",
+          "title": "Maton",
+          "href": "https://www.maton.ai/",
+          "description": "Talk to your SaaS tools",
+          "icon": "/assets/favicon_1774600465388.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
