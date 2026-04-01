@@ -216,6 +216,14 @@
           "href": "https://agent.minimaxi.com/",
           "description": "MiniMax Agent",
           "icon": "/assets/favicon_1774233237952.png"
+        },
+        {
+          "id": "item-1775009093638",
+          "enabled": true,
+          "title": "Qwen",
+          "href": "https://chat.qwen.ai/",
+          "description": "Qwen Chat",
+          "icon": "/assets/favicon_1775009083995.png"
         }
       ],
       "subCategories": []
