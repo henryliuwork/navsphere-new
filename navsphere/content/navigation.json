@@ -130,6 +130,14 @@
           "enabled": true
         },
         {
+          "id": "item-1775009093638",
+          "enabled": true,
+          "title": "Qwen",
+          "href": "https://chat.qwen.ai/",
+          "description": "Qwen Chat",
+          "icon": "/assets/favicon_1775009083995.png"
+        },
+        {
           "id": "1769994641693",
           "title": "MiniMax Agent",
           "href": "https://agent.minimax.io/",
@@ -202,20 +210,20 @@
           "enabled": true
         },
         {
+          "id": "site_1764145163224_sf7pxi8ql",
+          "title": "灵光 一闪",
+          "href": "https://www.lingguang.com/",
+          "description": "灵光AI",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.lingguang.com",
+          "enabled": true
+        },
+        {
           "id": "item-1774233252315",
           "enabled": true,
           "title": "MiniMax",
           "href": "https://agent.minimaxi.com/",
           "description": "MiniMax Agent",
           "icon": "/assets/favicon_1774233237952.png"
-        },
-        {
-          "id": "item-1775009093638",
-          "enabled": true,
-          "title": "Qwen",
-          "href": "https://chat.qwen.ai/",
-          "description": "Qwen Chat",
-          "icon": "/assets/favicon_1775009083995.png"
         }
       ],
       "subCategories": []
