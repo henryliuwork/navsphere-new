@@ -114,19 +114,19 @@
           "enabled": true
         },
         {
-          "id": "1756265066977",
-          "title": "‎Google Gemini",
-          "href": "https://gemini.google.com/",
-          "description": "Gemini助手",
-          "icon": "/assets/favicon_1756973006812.svg",
-          "enabled": true
-        },
-        {
           "id": "1772184778156",
           "title": "Claude",
           "href": "https://claude.ai/",
           "description": "Claude AI",
           "icon": "/assets/favicon_1772184805856.svg",
+          "enabled": true
+        },
+        {
+          "id": "1756265066977",
+          "title": "‎Google Gemini",
+          "href": "https://gemini.google.com/",
+          "description": "Gemini助手",
+          "icon": "/assets/favicon_1756973006812.svg",
           "enabled": true
         },
         {
