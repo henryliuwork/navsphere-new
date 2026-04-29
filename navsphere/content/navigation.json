@@ -224,6 +224,14 @@
           "href": "https://agent.minimaxi.com/",
           "description": "MiniMax Agent",
           "icon": "/assets/favicon_1774233237952.png"
+        },
+        {
+          "id": "1777442682835",
+          "title": "DeepSeek Platform",
+          "href": "https://platform.deepseek.com/",
+          "description": "DeepSeek API Platform",
+          "icon": "/assets/favicon_1777442685093.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
