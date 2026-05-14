@@ -654,6 +654,14 @@
               "enabled": true
             },
             {
+              "id": "1778749039002",
+              "title": "Neon Database",
+              "href": "https://console.neon.tech/app",
+              "description": "Neon数据库",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=console.neon.tech",
+              "enabled": true
+            },
+            {
               "id": "site_1756829417348_0ed49iikf",
               "title": "Digital Ocean",
               "href": "https://cloud.digitalocean.com/apps?i=49339f",
@@ -667,14 +675,6 @@
               "href": "https://zeabur.com/",
               "description": "PaaS，云端部署",
               "icon": "/assets/favicon_1758158592648.png",
-              "enabled": true
-            },
-            {
-              "id": "1778749039002",
-              "title": "Neon Database",
-              "href": "https://console.neon.tech/app",
-              "description": "Neon数据库",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=console.neon.tech",
               "enabled": true
             }
           ]
