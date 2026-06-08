@@ -229,6 +229,138 @@
       "subCategories": []
     },
     {
+      "id": "1756828827641",
+      "title": "云计算",
+      "icon": "Cloud",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "57ecb350-83ad-43bf-8586-230b5bbc0f7f",
+          "title": "项目部署",
+          "icon": "Cloud",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1_3",
+              "title": "Cloudflare",
+              "href": "https://dash.cloudflare.com/",
+              "description": "域名解析管理",
+              "icon": "/assets/images/logos/cloudflar.ico",
+              "enabled": true
+            },
+            {
+              "id": "1758158559851",
+              "title": "RailWay",
+              "href": "https://railway.com/dashboard",
+              "description": "PaaS，云端部署",
+              "icon": "/assets/favicon_1758158570835.ico",
+              "enabled": true
+            },
+            {
+              "id": "1756829513553",
+              "title": "GitHub",
+              "href": "https://github.com/",
+              "description": "开源世界",
+              "icon": "/assets/favicon_1757171480395.png",
+              "enabled": true
+            },
+            {
+              "id": "1_2",
+              "title": "Vercel",
+              "href": "https://vercel.com/",
+              "description": "Vercel前端部署",
+              "icon": "/assets/images/logos/vercel.png",
+              "enabled": true
+            },
+            {
+              "id": "1771928251335",
+              "title": "Supabase",
+              "href": "https://supabase.com/",
+              "description": "在线数据库",
+              "icon": "/assets/favicon_1771928260581.png",
+              "enabled": true
+            },
+            {
+              "id": "1778749039002",
+              "title": "Neon Database",
+              "href": "https://console.neon.tech/app",
+              "description": "Neon数据库",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=console.neon.tech",
+              "enabled": true
+            },
+            {
+              "id": "site_1756829417348_0ed49iikf",
+              "title": "Digital Ocean",
+              "href": "https://cloud.digitalocean.com/apps?i=49339f",
+              "description": "PaaS，云端部署",
+              "icon": "/assets/favicon_1757171490053.png",
+              "enabled": true
+            },
+            {
+              "id": "1758158583936",
+              "title": "Zeabur",
+              "href": "https://zeabur.com/",
+              "description": "PaaS，云端部署",
+              "icon": "/assets/favicon_1758158592648.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "589e947d-13aa-40cb-b5d2-ca8b43d2bbc3",
+          "title": "域名与托管",
+          "icon": "Cloud",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1758180644657",
+              "title": "WHOIS Search",
+              "href": "https://who.is/",
+              "description": "域名查询",
+              "icon": "/assets/favicon_1758180649670.ico",
+              "enabled": true
+            },
+            {
+              "id": "1756830368986",
+              "title": "Namecheap",
+              "href": "https://namecheap.com",
+              "description": "域名注册，Host",
+              "icon": "/assets/favicon_1757171447408.ico",
+              "enabled": true
+            },
+            {
+              "id": "1756830421442",
+              "title": "Namesilo",
+              "href": "https://namesilo.com",
+              "description": "便宜域名注册",
+              "icon": "/assets/favicon_1757171457676.ico",
+              "enabled": true
+            },
+            {
+              "id": "1756830480673",
+              "title": "Godaddy",
+              "href": "https://www.godaddy.com/",
+              "description": "域名注册",
+              "icon": "/assets/favicon_1757171931501.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1757172495713_62zrp5j9g",
+              "title": "HostVerge",
+              "href": "https://hostverge.com/",
+              "description": "WP Hosting",
+              "icon": "/assets/favicon_1757172623252.png",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1770801709525",
       "title": "常用工具",
       "icon": "FolderOpen",
@@ -597,138 +729,6 @@
         }
       ],
       "subCategories": []
-    },
-    {
-      "id": "1756828827641",
-      "title": "云计算",
-      "icon": "Cloud",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "57ecb350-83ad-43bf-8586-230b5bbc0f7f",
-          "title": "项目部署",
-          "icon": "Cloud",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1_3",
-              "title": "Cloudflare",
-              "href": "https://dash.cloudflare.com/",
-              "description": "域名解析管理",
-              "icon": "/assets/images/logos/cloudflar.ico",
-              "enabled": true
-            },
-            {
-              "id": "1758158559851",
-              "title": "RailWay",
-              "href": "https://railway.com/dashboard",
-              "description": "PaaS，云端部署",
-              "icon": "/assets/favicon_1758158570835.ico",
-              "enabled": true
-            },
-            {
-              "id": "1756829513553",
-              "title": "GitHub",
-              "href": "https://github.com/",
-              "description": "开源世界",
-              "icon": "/assets/favicon_1757171480395.png",
-              "enabled": true
-            },
-            {
-              "id": "1_2",
-              "title": "Vercel",
-              "href": "https://vercel.com/",
-              "description": "Vercel前端部署",
-              "icon": "/assets/images/logos/vercel.png",
-              "enabled": true
-            },
-            {
-              "id": "1771928251335",
-              "title": "Supabase",
-              "href": "https://supabase.com/",
-              "description": "在线数据库",
-              "icon": "/assets/favicon_1771928260581.png",
-              "enabled": true
-            },
-            {
-              "id": "1778749039002",
-              "title": "Neon Database",
-              "href": "https://console.neon.tech/app",
-              "description": "Neon数据库",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=console.neon.tech",
-              "enabled": true
-            },
-            {
-              "id": "site_1756829417348_0ed49iikf",
-              "title": "Digital Ocean",
-              "href": "https://cloud.digitalocean.com/apps?i=49339f",
-              "description": "PaaS，云端部署",
-              "icon": "/assets/favicon_1757171490053.png",
-              "enabled": true
-            },
-            {
-              "id": "1758158583936",
-              "title": "Zeabur",
-              "href": "https://zeabur.com/",
-              "description": "PaaS，云端部署",
-              "icon": "/assets/favicon_1758158592648.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "589e947d-13aa-40cb-b5d2-ca8b43d2bbc3",
-          "title": "域名与托管",
-          "icon": "Cloud",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1758180644657",
-              "title": "WHOIS Search",
-              "href": "https://who.is/",
-              "description": "域名查询",
-              "icon": "/assets/favicon_1758180649670.ico",
-              "enabled": true
-            },
-            {
-              "id": "1756830368986",
-              "title": "Namecheap",
-              "href": "https://namecheap.com",
-              "description": "域名注册，Host",
-              "icon": "/assets/favicon_1757171447408.ico",
-              "enabled": true
-            },
-            {
-              "id": "1756830421442",
-              "title": "Namesilo",
-              "href": "https://namesilo.com",
-              "description": "便宜域名注册",
-              "icon": "/assets/favicon_1757171457676.ico",
-              "enabled": true
-            },
-            {
-              "id": "1756830480673",
-              "title": "Godaddy",
-              "href": "https://www.godaddy.com/",
-              "description": "域名注册",
-              "icon": "/assets/favicon_1757171931501.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1757172495713_62zrp5j9g",
-              "title": "HostVerge",
-              "href": "https://hostverge.com/",
-              "description": "WP Hosting",
-              "icon": "/assets/favicon_1757172623252.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "1764769924676",
