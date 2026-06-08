@@ -292,6 +292,14 @@
               "enabled": true
             },
             {
+              "id": "1780897200298",
+              "title": "Trigger",
+              "href": "https://cloud.trigger.dev/",
+              "description": "Cron Tasks",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloud.trigger.dev",
+              "enabled": true
+            },
+            {
               "id": "site_1756829417348_0ed49iikf",
               "title": "Digital Ocean",
               "href": "https://cloud.digitalocean.com/apps?i=49339f",
@@ -305,14 +313,6 @@
               "href": "https://zeabur.com/",
               "description": "PaaS，云端部署",
               "icon": "/assets/favicon_1758158592648.png",
-              "enabled": true
-            },
-            {
-              "id": "1780897200298",
-              "title": "Trigger",
-              "href": "https://cloud.trigger.dev/",
-              "description": "Cron Tasks",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloud.trigger.dev",
               "enabled": true
             }
           ]
