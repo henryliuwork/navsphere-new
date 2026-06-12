@@ -430,6 +430,14 @@
           "description": "Google Python Env",
           "icon": "/assets/favicon_1770799716215.ico",
           "enabled": true
+        },
+        {
+          "id": "item-1781242536432",
+          "enabled": true,
+          "title": "QM icon",
+          "href": "https://icon.qiaomu.ai/",
+          "description": "网站Icon制作",
+          "icon": "/assets/favicon_1781242518648.png"
         }
       ],
       "subCategories": []
