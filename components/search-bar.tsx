@@ -99,10 +99,21 @@ export function SearchBar({ onSearch, searchResults, searchQuery, siteConfig }: 
         <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-muted-foreground" />
         <Input
           ref={inputRef}
-          placeholder="搜索导航..."
+          placeholder="搜索"
           value={searchQuery}
           onChange={(e) => handleInputChange(e.target.value)}
           onFocus={() => setIsFocused(true)}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter' && searchQuery.trim()) {
+              const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(searchQuery.trim())}`
+              const linkTarget = siteConfig?.navigation?.linkTarget || '_blank'
+              if (linkTarget === '_self') {
+                window.location.href = searchUrl
+              } else {
+                window.open(searchUrl, linkTarget)
+              }
+            }
+          }}
           className="pl-10 pr-20 h-10 rounded-lg border shadow-sm"
         />
         <div className="absolute right-2 top-1/2 transform -translate-y-1/2 flex items-center gap-1">
