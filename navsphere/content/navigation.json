@@ -258,6 +258,14 @@
           "description": "CxGenie AI Chatbot",
           "icon": "/assets/favicon_1758697031322.png",
           "enabled": true
+        },
+        {
+          "id": "1789712116566",
+          "title": "LinkFlow | 网站运营系统",
+          "href": "https://linkflow-guiji.vercel.app/",
+          "description": "独立站运营管理平台",
+          "icon": "/assets/favicon_1789712120682.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
