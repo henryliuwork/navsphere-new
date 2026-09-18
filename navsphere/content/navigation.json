@@ -438,6 +438,14 @@
           "description": "AI-powered email marketing and SMS",
           "icon": "/assets/favicon_1789711861732.png",
           "enabled": true
+        },
+        {
+          "id": "1789711894436",
+          "title": "Omnisend",
+          "href": "https://www.omnisend.com/",
+          "description": "Omnisend Marketing",
+          "icon": "/assets/favicon_1789711897857.png",
+          "enabled": true
         }
       ],
       "subCategories": []
