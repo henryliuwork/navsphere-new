@@ -430,6 +430,14 @@
           "href": "https://resend.com/emails",
           "description": "Resend SMTP",
           "icon": "/assets/favicon_1771986984878.ico"
+        },
+        {
+          "id": "1789711857835",
+          "title": "Klaviyo: AI Email Marketing",
+          "href": "https://www.klaviyo.com/",
+          "description": "AI-powered email marketing and SMS",
+          "icon": "/assets/favicon_1789711861732.png",
+          "enabled": true
         }
       ],
       "subCategories": []
