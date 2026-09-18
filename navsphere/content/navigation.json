@@ -146,14 +146,6 @@
           "icon": "/assets/favicon_1775009083995.png"
         },
         {
-          "id": "1769994641693",
-          "title": "MiniMax Agent",
-          "href": "https://agent.minimax.io/",
-          "description": "Discover MiniMax Agent",
-          "icon": "/assets/favicon_1769994654792.png",
-          "enabled": true
-        },
-        {
           "id": "site_1762487523513_6fpzi802j",
           "title": "DeepSeek",
           "href": "https://chat.deepseek.com/",
