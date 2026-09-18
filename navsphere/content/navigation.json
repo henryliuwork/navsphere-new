@@ -266,6 +266,14 @@
           "description": "CxGenie AI Chatbot",
           "icon": "/assets/favicon_1758697031322.png",
           "enabled": true
+        },
+        {
+          "id": "1789712149353",
+          "title": "AdPilot",
+          "href": "https://adpilot-guiji.vercel.app/",
+          "description": "AdPilot 广告运营平台",
+          "icon": "/assets/favicon_1789712152871.png",
+          "enabled": true
         }
       ],
       "subCategories": []
