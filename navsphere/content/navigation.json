@@ -102,6 +102,14 @@
           "description": "Wiki知识库",
           "icon": "/assets/favicon_1762400756986.png",
           "enabled": true
+        },
+        {
+          "id": "1764770040779",
+          "title": "轨迹的航海日志",
+          "href": "https://guijige.com/",
+          "description": "",
+          "icon": "/assets/favicon_1766038006532.png",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -760,16 +768,7 @@
       "icon": "Star",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "1764770040779",
-          "title": "轨迹的航海日志",
-          "href": "https://guijige.com/",
-          "description": "",
-          "icon": "/assets/favicon_1766038006532.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     }
   ]
