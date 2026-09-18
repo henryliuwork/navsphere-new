@@ -228,6 +228,14 @@
           "enabled": true
         },
         {
+          "id": "1789712149353",
+          "title": "AdPilot",
+          "href": "https://adpilot-guiji.vercel.app/",
+          "description": "AdPilot 广告运营平台",
+          "icon": "/assets/favicon_1789712152871.png",
+          "enabled": true
+        },
+        {
           "id": "1_1",
           "title": "Google Analytics",
           "href": "https://analytics.google.com/",
@@ -265,14 +273,6 @@
           "href": "https://app.cxgenie.ai/",
           "description": "CxGenie AI Chatbot",
           "icon": "/assets/favicon_1758697031322.png",
-          "enabled": true
-        },
-        {
-          "id": "1789712149353",
-          "title": "AdPilot",
-          "href": "https://adpilot-guiji.vercel.app/",
-          "description": "AdPilot 广告运营平台",
-          "icon": "/assets/favicon_1789712152871.png",
           "enabled": true
         }
       ],
