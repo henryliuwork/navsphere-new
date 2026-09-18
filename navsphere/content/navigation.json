@@ -287,8 +287,8 @@
               "id": "1778749039002",
               "title": "Neon Database",
               "href": "https://console.neon.tech/app",
-              "description": "Neon数据库",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=console.neon.tech",
+              "description": "",
+              "icon": "/assets/favicon_1789694753519.ico",
               "enabled": true
             },
             {
