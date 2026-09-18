@@ -130,6 +130,14 @@
           "enabled": true
         },
         {
+          "id": "site_1762487523513_6fpzi802j",
+          "title": "DeepSeek",
+          "href": "https://chat.deepseek.com/",
+          "description": "Chat with DeepSeek AI",
+          "icon": "/assets/favicon_1762487515498.svg",
+          "enabled": true
+        },
+        {
           "id": "1756265066977",
           "title": "‎Google Gemini",
           "href": "https://gemini.google.com/",
@@ -144,14 +152,6 @@
           "href": "https://chat.qwen.ai/",
           "description": "Qwen Chat",
           "icon": "/assets/favicon_1775009083995.png"
-        },
-        {
-          "id": "site_1762487523513_6fpzi802j",
-          "title": "DeepSeek",
-          "href": "https://chat.deepseek.com/",
-          "description": "Chat with DeepSeek AI",
-          "icon": "/assets/favicon_1762487515498.svg",
-          "enabled": true
         },
         {
           "id": "site_1774600470127_c30p4l5t5",
