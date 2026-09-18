@@ -377,80 +377,6 @@
       ]
     },
     {
-      "id": "1770801709525",
-      "title": "常用工具",
-      "icon": "FolderOpen",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "1756265870207",
-          "title": "Random Street Address",
-          "href": "https://www.bestrandoms.com/random-address",
-          "description": "Random Street Address",
-          "icon": "/assets/favicon_1772244847693.ico",
-          "enabled": true
-        },
-        {
-          "id": "1756265845494",
-          "title": "UTM Builder",
-          "href": "https://utmbuilder.net/",
-          "description": "URL标记",
-          "icon": "/assets/favicon_1756973015759.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1763715783510_r1sgz0iba",
-          "title": "Pixso",
-          "href": "https://pixso.cn/",
-          "description": "在线原型图",
-          "icon": "/assets/favicon_1763715771295.png",
-          "enabled": true
-        },
-        {
-          "id": "1756265912645",
-          "title": "在线大小写转换器",
-          "href": "https://www.iamwawa.cn/daxiaoxie.html",
-          "description": "大小写转换，字符空格处理",
-          "icon": "/assets/favicon_1756973036290.png",
-          "enabled": true
-        },
-        {
-          "id": "1765279305478",
-          "title": "NewKit 在线效率工具箱",
-          "href": "https://www.newkit.site/",
-          "description": "JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
-          "icon": "/assets/favicon_1765279307988.svg",
-          "enabled": true
-        },
-        {
-          "id": "item-1767752537665",
-          "title": "Markdown Editor",
-          "href": "https://md.newkit.site/",
-          "description": "专业的公众号Markdown编辑器",
-          "icon": "/assets/favicon_1767752519724.svg",
-          "enabled": true
-        },
-        {
-          "id": "1770799701554",
-          "title": "Google Colab",
-          "href": "https://colab.research.google.com/",
-          "description": "Google Python Env",
-          "icon": "/assets/favicon_1770799716215.ico",
-          "enabled": true
-        },
-        {
-          "id": "item-1781242536432",
-          "enabled": true,
-          "title": "QM icon",
-          "href": "https://icon.qiaomu.ai/",
-          "description": "网站Icon制作",
-          "icon": "/assets/favicon_1781242518648.png"
-        }
-      ],
-      "subCategories": []
-    },
-    {
       "id": "1756264411631",
       "title": "网站管理",
       "icon": "Target",
@@ -750,6 +676,80 @@
           "description": "Pinterest广告后台",
           "icon": "/assets/favicon_1770803175029.png",
           "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1770801709525",
+      "title": "常用工具",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "1756265870207",
+          "title": "Random Street Address",
+          "href": "https://www.bestrandoms.com/random-address",
+          "description": "Random Street Address",
+          "icon": "/assets/favicon_1772244847693.ico",
+          "enabled": true
+        },
+        {
+          "id": "1756265845494",
+          "title": "UTM Builder",
+          "href": "https://utmbuilder.net/",
+          "description": "URL标记",
+          "icon": "/assets/favicon_1756973015759.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1763715783510_r1sgz0iba",
+          "title": "Pixso",
+          "href": "https://pixso.cn/",
+          "description": "在线原型图",
+          "icon": "/assets/favicon_1763715771295.png",
+          "enabled": true
+        },
+        {
+          "id": "1756265912645",
+          "title": "在线大小写转换器",
+          "href": "https://www.iamwawa.cn/daxiaoxie.html",
+          "description": "大小写转换，字符空格处理",
+          "icon": "/assets/favicon_1756973036290.png",
+          "enabled": true
+        },
+        {
+          "id": "1765279305478",
+          "title": "NewKit 在线效率工具箱",
+          "href": "https://www.newkit.site/",
+          "description": "JSON格式化、SQL美化、加密解密等，简洁高效，数据本地处理",
+          "icon": "/assets/favicon_1765279307988.svg",
+          "enabled": true
+        },
+        {
+          "id": "item-1767752537665",
+          "title": "Markdown Editor",
+          "href": "https://md.newkit.site/",
+          "description": "专业的公众号Markdown编辑器",
+          "icon": "/assets/favicon_1767752519724.svg",
+          "enabled": true
+        },
+        {
+          "id": "1770799701554",
+          "title": "Google Colab",
+          "href": "https://colab.research.google.com/",
+          "description": "Google Python Env",
+          "icon": "/assets/favicon_1770799716215.ico",
+          "enabled": true
+        },
+        {
+          "id": "item-1781242536432",
+          "enabled": true,
+          "title": "QM icon",
+          "href": "https://icon.qiaomu.ai/",
+          "description": "网站Icon制作",
+          "icon": "/assets/favicon_1781242518648.png"
         }
       ],
       "subCategories": []
