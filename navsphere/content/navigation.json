@@ -154,14 +154,6 @@
           "enabled": true
         },
         {
-          "id": "item-1770104877431",
-          "enabled": true,
-          "title": "Kimi AI 官网",
-          "href": "https://www.kimi.com/",
-          "description": "月之暗面 (Moonshot AI)",
-          "icon": "/assets/favicon_1770104866616.png"
-        },
-        {
           "id": "site_1774600470127_c30p4l5t5",
           "title": "Maton",
           "href": "https://www.maton.ai/",
