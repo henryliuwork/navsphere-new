@@ -228,6 +228,14 @@
           "enabled": true
         },
         {
+          "id": "1_1",
+          "title": "Google Analytics",
+          "href": "https://analytics.google.com/",
+          "description": "网站流量分析",
+          "icon": "/assets/images/logos/analytics.ico",
+          "enabled": true
+        },
+        {
           "id": "1756264506229",
           "title": "Mailead | Dashboard",
           "href": "https://app.mailead.io/dashboard/ax4?view=schedule&Campaign=1744005767672x746757958847430700&path=Campaigns",
@@ -249,14 +257,6 @@
           "href": "https://clarity.microsoft.com/",
           "description": "网站录像/热力图",
           "icon": "/assets/favicon_1757171985614.ico",
-          "enabled": true
-        },
-        {
-          "id": "1_1",
-          "title": "Google Analytics",
-          "href": "https://analytics.google.com/",
-          "description": "网站流量分析",
-          "icon": "/assets/images/logos/analytics.ico",
           "enabled": true
         },
         {
