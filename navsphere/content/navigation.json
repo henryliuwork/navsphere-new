@@ -208,14 +208,6 @@
           "description": "AI智能设计体",
           "icon": "/assets/favicon_1763002868381.ico",
           "enabled": true
-        },
-        {
-          "id": "item-1774233252315",
-          "enabled": true,
-          "title": "MiniMax",
-          "href": "https://agent.minimaxi.com/",
-          "description": "MiniMax Agent",
-          "icon": "/assets/favicon_1774233237952.png"
         }
       ],
       "subCategories": []
