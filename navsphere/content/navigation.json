@@ -562,6 +562,14 @@
           "description": "域名解析管理",
           "icon": "/assets/images/logos/cloudflar.ico",
           "enabled": true
+        },
+        {
+          "id": "1758158559851",
+          "title": "RailWay",
+          "href": "https://railway.com/dashboard",
+          "description": "PaaS，云端部署",
+          "icon": "/assets/favicon_1758158570835.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -572,14 +580,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1758158559851",
-              "title": "RailWay",
-              "href": "https://railway.com/dashboard",
-              "description": "PaaS，云端部署",
-              "icon": "/assets/favicon_1758158570835.ico",
-              "enabled": true
-            },
             {
               "id": "1756829513553",
               "title": "GitHub",
