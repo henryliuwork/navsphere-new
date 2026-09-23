@@ -650,6 +650,14 @@
           "description": "便宜域名注册",
           "icon": "/assets/favicon_1757171457676.ico",
           "enabled": true
+        },
+        {
+          "id": "1756830480673",
+          "title": "Godaddy",
+          "href": "https://www.godaddy.com/",
+          "description": "域名注册",
+          "icon": "/assets/favicon_1757171931501.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -668,14 +676,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1756830480673",
-              "title": "Godaddy",
-              "href": "https://www.godaddy.com/",
-              "description": "域名注册",
-              "icon": "/assets/favicon_1757171931501.png",
-              "enabled": true
-            },
             {
               "id": "site_1757172495713_62zrp5j9g",
               "title": "HostVerge",
