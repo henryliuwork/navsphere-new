@@ -618,6 +618,14 @@
           "description": "PaaS，云端部署",
           "icon": "/assets/favicon_1757171490053.png",
           "enabled": true
+        },
+        {
+          "id": "1758158583936",
+          "title": "Zeabur",
+          "href": "https://zeabur.com/",
+          "description": "PaaS，云端部署",
+          "icon": "/assets/favicon_1758158592648.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -627,16 +635,7 @@
           "icon": "Cloud",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "1758158583936",
-              "title": "Zeabur",
-              "href": "https://zeabur.com/",
-              "description": "PaaS，云端部署",
-              "icon": "/assets/favicon_1758158592648.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         },
         {
           "id": "589e947d-13aa-40cb-b5d2-ca8b43d2bbc3",
