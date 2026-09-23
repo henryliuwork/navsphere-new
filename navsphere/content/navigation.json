@@ -586,6 +586,14 @@
           "description": "Vercel前端部署",
           "icon": "/assets/images/logos/vercel.png",
           "enabled": true
+        },
+        {
+          "id": "1771928251335",
+          "title": "Supabase",
+          "href": "https://supabase.com/",
+          "description": "在线数据库",
+          "icon": "/assets/favicon_1771928260581.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -596,14 +604,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1771928251335",
-              "title": "Supabase",
-              "href": "https://supabase.com/",
-              "description": "在线数据库",
-              "icon": "/assets/favicon_1771928260581.png",
-              "enabled": true
-            },
             {
               "id": "1778749039002",
               "title": "Neon Database",
