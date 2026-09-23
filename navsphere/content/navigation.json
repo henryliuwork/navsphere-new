@@ -554,7 +554,16 @@
       "icon": "Cloud",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1_3",
+          "title": "Cloudflare",
+          "href": "https://dash.cloudflare.com/",
+          "description": "域名解析管理",
+          "icon": "/assets/images/logos/cloudflar.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "57ecb350-83ad-43bf-8586-230b5bbc0f7f",
@@ -563,14 +572,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1_3",
-              "title": "Cloudflare",
-              "href": "https://dash.cloudflare.com/",
-              "description": "域名解析管理",
-              "icon": "/assets/images/logos/cloudflar.ico",
-              "enabled": true
-            },
             {
               "id": "1758158559851",
               "title": "RailWay",
