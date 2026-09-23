@@ -578,6 +578,14 @@
           "description": "开源盛世",
           "icon": "/assets/favicon_1757171480395.png",
           "enabled": true
+        },
+        {
+          "id": "1_2",
+          "title": "Vercel",
+          "href": "https://vercel.com/",
+          "description": "Vercel前端部署",
+          "icon": "/assets/images/logos/vercel.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -588,14 +596,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1_2",
-              "title": "Vercel",
-              "href": "https://vercel.com/",
-              "description": "Vercel前端部署",
-              "icon": "/assets/images/logos/vercel.png",
-              "enabled": true
-            },
             {
               "id": "1771928251335",
               "title": "Supabase",
