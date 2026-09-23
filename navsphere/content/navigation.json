@@ -626,6 +626,14 @@
           "description": "PaaS，云端部署",
           "icon": "/assets/favicon_1758158592648.png",
           "enabled": true
+        },
+        {
+          "id": "1758180644657",
+          "title": "WHOIS Search",
+          "href": "https://who.is/",
+          "description": "域名查询",
+          "icon": "/assets/favicon_1758180649670.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -644,14 +652,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1758180644657",
-              "title": "WHOIS Search",
-              "href": "https://who.is/",
-              "description": "域名查询",
-              "icon": "/assets/favicon_1758180649670.ico",
-              "enabled": true
-            },
             {
               "id": "1756830368986",
               "title": "Namecheap",
