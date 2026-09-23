@@ -658,6 +658,14 @@
           "description": "域名注册",
           "icon": "/assets/favicon_1757171931501.png",
           "enabled": true
+        },
+        {
+          "id": "site_1757172495713_62zrp5j9g",
+          "title": "HostVerge",
+          "href": "https://hostverge.com/",
+          "description": "WP Hosting",
+          "icon": "/assets/favicon_1757172623252.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -675,16 +683,7 @@
           "icon": "Cloud",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "site_1757172495713_62zrp5j9g",
-              "title": "HostVerge",
-              "href": "https://hostverge.com/",
-              "description": "WP Hosting",
-              "icon": "/assets/favicon_1757172623252.png",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
