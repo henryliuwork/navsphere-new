@@ -602,6 +602,14 @@
           "description": "在线数据库",
           "icon": "/assets/favicon_1789694753519.ico",
           "enabled": true
+        },
+        {
+          "id": "1780897200298",
+          "title": "Trigger",
+          "href": "https://cloud.trigger.dev/",
+          "description": "Cron Tasks",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloud.trigger.dev",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -612,14 +620,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1780897200298",
-              "title": "Trigger",
-              "href": "https://cloud.trigger.dev/",
-              "description": "Cron Tasks",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloud.trigger.dev",
-              "enabled": true
-            },
             {
               "id": "site_1756829417348_0ed49iikf",
               "title": "Digital Ocean",
