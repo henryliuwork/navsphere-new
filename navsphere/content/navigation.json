@@ -610,6 +610,14 @@
           "description": "Cron Tasks",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=cloud.trigger.dev",
           "enabled": true
+        },
+        {
+          "id": "site_1756829417348_0ed49iikf",
+          "title": "Digital Ocean",
+          "href": "https://cloud.digitalocean.com/apps?i=49339f",
+          "description": "PaaS，云端部署",
+          "icon": "/assets/favicon_1757171490053.png",
+          "enabled": true
         }
       ],
       "subCategories": [
@@ -620,14 +628,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "site_1756829417348_0ed49iikf",
-              "title": "Digital Ocean",
-              "href": "https://cloud.digitalocean.com/apps?i=49339f",
-              "description": "PaaS，云端部署",
-              "icon": "/assets/favicon_1757171490053.png",
-              "enabled": true
-            },
             {
               "id": "1758158583936",
               "title": "Zeabur",
