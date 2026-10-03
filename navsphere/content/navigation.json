@@ -668,16 +668,7 @@
           "enabled": true
         }
       ],
-      "subCategories": [
-        {
-          "id": "589e947d-13aa-40cb-b5d2-ca8b43d2bbc3",
-          "title": "域名与托管",
-          "icon": "Cloud",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
+      "subCategories": []
     },
     {
       "id": "1770801709525",
